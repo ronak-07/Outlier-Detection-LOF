@@ -14,7 +14,13 @@ Steps Involved
 
 Results
 -------------
+
+k=100
+
 ![For k=100](https://github.com/ronak-07/Outlier-Detection-LOF-/blob/master/100.png)
+
+k=300
+
 ![For k=300](https://github.com/ronak-07/Outlier-Detection-LOF-/blob/master/300.png)
 
 Contributors
