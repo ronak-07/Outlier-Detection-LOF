@@ -1,0 +1,8 @@
+Processing Time: 0.17812728881835938
+Distance Matrix Time: 16.637197017669678
+Calculate kth distance: 1.5811736583709717
+To Calculate the Neighbourhood: 1.7207739353179932
+To Calculate the Local Reachable Density: 0.012530088424682617
+To Calculate Local Outlier Factor:0.004473686218261719
+204 141.93772791
+To print the outlier:0.10849642753601074
